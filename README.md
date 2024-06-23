@@ -104,11 +104,3 @@ elements in the TreeSet in a graphical way.
 ## Documentation
 
 To see full documentation of both classes visit the [Official Documentation Website](https://javier-castilla.github.io/TreeSet-in-Python-Documentation/)
-
-## Authors
-
-Developed by:
-- Javier Castilla
-- Saúl Expósito
-- Jesús David García
-- Náyade García
