@@ -103,4 +103,4 @@ elements in the TreeSet in a graphical way.
 
 ## Documentation
 
-To see full documentation of both classes visit the [Official Documentation Website](https://javier-castilla.github.io/TreeSet-in-Python-Documentation/)
+To see full documentation of both classes visit the [Official Documentation Website](https://k4chann.github.io/Java-TreeSet-Implementation-in-Python/)
