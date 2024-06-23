@@ -1,7 +1,0 @@
-tree\_set module
-================
-
-.. automodule:: tree_set
-   :members:
-   :undoc-members:
-   :show-inheritance:
